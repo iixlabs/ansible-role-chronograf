@@ -4,3 +4,8 @@
   tags:
     - chronograf
     - chronograf-software
+
+- include: service.yml
+  tags:
+    - chronograf 
+    - chronograf-service

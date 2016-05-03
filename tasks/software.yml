@@ -1,0 +1,6 @@
+---
+
+- name: Install Chronograf
+  yum:
+    name: "{{chronograf.software.rpm}}"
+    state: present

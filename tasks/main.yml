@@ -1,0 +1,6 @@
+---
+
+- include: software.yml
+  tags:
+    - chronograf
+    - chronograf-software

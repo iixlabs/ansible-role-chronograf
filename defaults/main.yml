@@ -1,0 +1,5 @@
+---
+
+chronograf:
+  software:
+    rpm: https://s3.amazonaws.com/get.influxdb.org/chronograf/chronograf-0.12.0-1.x86_64.rpm
